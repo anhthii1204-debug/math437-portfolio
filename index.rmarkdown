@@ -252,3 +252,4 @@ Although the K-nearest neighbors (KNN) model was able to capture some important 
 Another limitation is that the data comes from RateMyProfessor, which is based on voluntary student reviews. As a result, the ratings may not fully represent all students or all professors. Students who choose to leave reviews may have particularly strong positive or negative opinions, which could introduce bias into the data.
 
 Future work could explore additional statistical learning methods and include more predictor variables to improve prediction accuracy. For example, tree-based methods or random forests may capture more complex relationships between variables. It may also be useful to investigate whether relationships differ across academic disciplines or university types.
+

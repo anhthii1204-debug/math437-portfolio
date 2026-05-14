@@ -131,7 +131,7 @@ rmp_test <- rmp[-train_index, ]
 dim(rmp)
 ```
 
-## Data Wrangling (Optional Section)
+## Data Wrangling
 
 The RateMyProfessor dataset was already relatively clean so only minor data wrangling was required before analysis. Categorical variables such as gender, race, discipline, university type and university control were converted to factor variables so they would be handled correctly in summaries, visualizations and modeling procedures.
 
